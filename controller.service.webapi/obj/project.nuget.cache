@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ALYae39HtSTi1o/e90KI9sG7l4RAZ7QFybCyKyrC97pF4FcjyB4monjLYPBvlRsKzDvqbVew36J/Z/9bTpELOg==",
+  "dgSpecHash": "r2o9azk/vDKcKviDuMPzzD/hggRDz+V8KXezSxRJvDgXh81BtQY34/gw0G9h/1mXNHStSPg9SvU65kGF3gH1/g==",
   "success": true,
-  "projectFilePath": "/mnt/hgfs/GitHub/accesspoint-admin/services.webapi/services.webapi.csproj",
+  "projectFilePath": "/mnt/hgfs/GitHub/accesspoint-admin/controller.service.webapi/controller.service.webapi.csproj",
   "expectedPackageFiles": [
     "/home/dev/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/dev/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

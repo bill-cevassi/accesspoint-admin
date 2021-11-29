@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/hgfs/GitHub/accesspoint-admin/services.webapi/services.webapi.csproj",
-      "projectName": "services.webapi",
-      "projectPath": "/mnt/hgfs/GitHub/accesspoint-admin/services.webapi/services.webapi.csproj",
+      "projectUniqueName": "/mnt/hgfs/GitHub/accesspoint-admin/controller.service.webapi/controller.service.webapi.csproj",
+      "projectName": "controller.service.webapi",
+      "projectPath": "/mnt/hgfs/GitHub/accesspoint-admin/controller.service.webapi/controller.service.webapi.csproj",
       "packagesPath": "/home/dev/.nuget/packages/",
-      "outputPath": "/mnt/hgfs/GitHub/accesspoint-admin/services.webapi/obj/",
+      "outputPath": "/mnt/hgfs/GitHub/accesspoint-admin/controller.service.webapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dev/.nuget/NuGet/NuGet.Config"

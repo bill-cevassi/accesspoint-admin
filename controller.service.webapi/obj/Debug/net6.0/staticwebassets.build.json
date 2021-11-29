@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+oTtCjT+XW7X6xxTrxCHQQ+MQi82Qy7NXGBuMY0FvE8=",
+  "Source": "controller.service.webapi",
+  "BasePath": "_content/controller.service.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
