@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc-webapp", "mvc-webapp\mv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common-libs", "common-libs\common-libs.csproj", "{5E229371-DC4D-4CC5-8EEE-AF0B6397C93E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "services.webapi", "services.webapi\services.webapi.csproj", "{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +46,17 @@ Global
 		{5E229371-DC4D-4CC5-8EEE-AF0B6397C93E}.Release|x64.Build.0 = Release|Any CPU
 		{5E229371-DC4D-4CC5-8EEE-AF0B6397C93E}.Release|x86.ActiveCfg = Release|Any CPU
 		{5E229371-DC4D-4CC5-8EEE-AF0B6397C93E}.Release|x86.Build.0 = Release|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Debug|x64.Build.0 = Debug|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Debug|x86.Build.0 = Debug|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Release|x64.ActiveCfg = Release|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Release|x64.Build.0 = Release|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Release|x86.ActiveCfg = Release|Any CPU
+		{AD6A25CB-48AA-4CD3-8D90-BE7C7EA7A809}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
