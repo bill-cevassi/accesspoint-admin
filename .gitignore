@@ -30,3 +30,4 @@ view.mvc-webapp/obj/Debug/net6.0/ref/view.mvc-webapp.dll
 view.mvc-webapp/obj/Debug/net6.0/scopedcss/bundle/view.mvc-webapp.styles.css
 view.mvc-webapp/obj/Debug/net6.0/scopedcss/projectbundle/view.mvc-webapp.bundle.scp.css
 view.mvc-webapp/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+controller.service.webapi/obj/staticwebassets.pack.sentinel
